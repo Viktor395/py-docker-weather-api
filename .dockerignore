@@ -1,7 +1,6 @@
 .venv/
 __pycache__/
 .github/
-Dockerfile
 .dockerignore
 .gitignore
 *.md
